@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0%;
     padding: 0%;
-    background-color: black;
 }
 
 .bg {
@@ -10,31 +9,31 @@
 }
 
 .wd {
-    width: 100%;
-    height: 70px;
+    width: 360px;
+    height: 100px;
     background-color: black;
     border-color: black;
-    text-align: right;
 }
 
 .btn.btn-rad {
     border-radius: 100%;
     height: 56px;
-    width: 62px;
+    width: 65px;
     margin: 5px;
 }
 
 .btn.btn-zz {
-    width: 158px;
+    width: 175px;
     height: 56px;
     border-radius: 50px;
     
 }
 
-.mar{
+/* .mar{
     margin-top: 30%;
-}
+} */
 
 .txt {
     text-size-adjust: 10%;
+    color:  white;
 }
